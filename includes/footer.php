@@ -1,5 +1,6 @@
 <div id="footer">
-            webplayer.com uncopy righted material
+            webplayer organization </br>
+            This is so boring
         </div>
     
     </body>
